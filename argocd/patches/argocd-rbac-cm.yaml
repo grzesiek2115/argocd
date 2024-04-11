@@ -8,3 +8,4 @@ data:
     p, role:user-update, accounts, update, *, allow
     p, role:user-update, accounts, get, *, allow
     g, alina, role:user-update
+    p, role:user-update, projects, update, argocd, allow
